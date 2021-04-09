@@ -1,6 +1,6 @@
 # Rischio-Climatico
 
-Progetto didattico legato alle attivtà di laboratorio del corso di Rischio CLimatico della facoltà di Scienze Naturali 
+Progetto didattico legato alle attività di laboratorio del corso di Rischio Climatico della facoltà di Scienze Naturali 
 dell'Università di Cagliari.
 
 Si impareranno alcune nozioni del linguaggio Python necessarie per l'elaborazioni di dati ambientali alfine di estrarre 
