@@ -6,7 +6,7 @@ dell'Università di Cagliari.
 Si impareranno alcune nozioni del linguaggio Python necessarie per l'elaborazioni di dati ambientali alfine di estrarre 
 indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o per le altre specie animali e/o vegetali.
 
-Per iniziare scricare o visualizzare il file contenente il tutorial per l'utilizzo di Colab:
+Per iniziare scaricare o visualizzare il file contenente il tutorial per l'utilizzo di Colab:
 
 https://docs.google.com/document/d/110UfI7xbqAtvNeDM-ijsqcLPrWOR91cW82ERO_rn-wk/edit?ts=607023ea
 
