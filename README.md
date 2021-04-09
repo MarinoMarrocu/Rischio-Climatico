@@ -26,4 +26,4 @@ Verrà mostrata la schermata di benvenuto
 
 Cliccare nella sezione Upload ed importare il Notebook precedentemente scaricato:
 
-Una volta importato, sarà aperto in automatico nell’ambiente di lavoro Colab:
+Una volta importato, sarà aperto in automatico nell’ambiente di lavoro Colab.
