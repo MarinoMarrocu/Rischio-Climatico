@@ -14,7 +14,8 @@ Tutorial per l’utilizzo di Colab:
 
 Registrarsi a GMAIL se non si possiede già un account.
 
-Accedere a GMAIL facendo Login da un browser desktop, possibilmente chrome o firefox
+Accedere a GMAIL facendo Login da un browser desktop, possibilmente chrome o firefox. 
+
 Scaricare il file del Notebook dall’indirizzo:  
 
 https://github.com/MarinoMarrocu/Rischio-Climatico/blob/main/hello-python.ipynb 
