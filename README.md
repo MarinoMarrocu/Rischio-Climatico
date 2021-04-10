@@ -8,6 +8,8 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 
 Per iniziare visualizzare il file contenente il tutorial per l'utilizzo di Colab:
 
+https://docs.google.com/document/d/110UfI7xbqAtvNeDM-ijsqcLPrWOR91cW82ERO_rn-wk/edit?ts=607023ea
+
 Il file da scaricare relativo alla prima lezione lo trovate all’indirizzo:  
 
 https://github.com/MarinoMarrocu/Rischio-Climatico/blob/main/hello-python.ipynb 
