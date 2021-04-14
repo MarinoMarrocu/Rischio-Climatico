@@ -13,4 +13,4 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 - Scaricare il file del Notebook della prima lezione dall’indirizzo:
  https://colab.research.google.com/drive/1BaQQxFrrr2b2AvAJNKvHA7Bd9L0oGOx3?usp=sharing
 
--In alto a sinistra cliccate su "File"->"Save a copy in Drive". Fatto ciò siamo pronti per iniziare!
+- In alto a sinistra cliccate su "File"->"Save a copy in Drive". Fatto ciò siamo pronti per iniziare!
