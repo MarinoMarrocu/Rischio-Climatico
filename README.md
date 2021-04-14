@@ -10,7 +10,7 @@ Per iniziare visualizzare il file contenente il tutorial per l'utilizzo di Colab
 
 https://docs.google.com/document/d/110UfI7xbqAtvNeDM-ijsqcLPrWOR91cW82ERO_rn-wk/edit?ts=607023ea
 
-Il file da scaricare relativo alla prima lezione lo trovate all’indirizzo:  
+Il file da scaricare relativo alla prima lezione lo trovate all’indirizzo (cliccate con tasto destro e salvate il file sul vostro PC):  
 
-https://colab.research.google.com/drive/1TWiCUWd9rkeGRBvRqdjCLdKv6u0kbaFA
+https://colab.research.google.com/drive/1TWiCUWd9rkeGRBvRqdjCLdKv6u0kbaFA?usp=sharing
 
