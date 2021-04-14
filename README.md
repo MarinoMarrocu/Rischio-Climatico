@@ -12,5 +12,5 @@ https://docs.google.com/document/d/110UfI7xbqAtvNeDM-ijsqcLPrWOR91cW82ERO_rn-wk/
 
 Il file da scaricare relativo alla prima lezione lo trovate all’indirizzo:  
 
-https://github.com/MarinoMarrocu/Rischio-Climatico/blob/main/hello-python.ipynb 
+https://colab.research.google.com/drive/1TWiCUWd9rkeGRBvRqdjCLdKv6u0kbaFA
 
