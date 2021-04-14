@@ -12,7 +12,7 @@ Accedere a GMAIL facendo Login da un browser desktop, possibilmente chrome o fir
 
 Scaricare il file del Notebook della prima lezione dall’indirizzo:
 
-https://colab.research.google.com/drive/1TWiCUWd9rkeGRBvRqdjCLdKv6u0kbaFA?usp=sharing
+https://colab.research.google.com/drive/1BaQQxFrrr2b2AvAJNKvHA7Bd9L0oGOx3?usp=sharing
 
 In alto a sinistra cliccate su "File"->"Save a copy in Drive". 
 
