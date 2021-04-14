@@ -6,11 +6,14 @@ dell'Università di Cagliari.
 L'obiettivo è acquisire alcune nozioni del linguaggio Python necessarie per l'elaborazioni di dati ambientali al fine di estrarre 
 indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o per le altre specie animali e/o vegetali.
 
-Per iniziare visualizzare il file contenente il tutorial per l'utilizzo di Colab (potete cliccare con il tasto destro del mouse e aprire il documento in un altra finestra in modo da visualizzarla assieme a questa):
+Registrarsi a GMAIL se non si possiede già un account
 
-https://docs.google.com/document/d/110UfI7xbqAtvNeDM-ijsqcLPrWOR91cW82ERO_rn-wk/edit?ts=607023ea
+Accedere a GMAIL facendo Login da un browser desktop, possibilmente chrome o firefox
 
-Il file da scaricare relativo alla prima lezione lo trovate all’indirizzo (cliccate con tasto destro e salvate il file sul vostro PC):  
+Scaricare il file del Notebook della prima lezione dall’indirizzo:
 
 https://colab.research.google.com/drive/1TWiCUWd9rkeGRBvRqdjCLdKv6u0kbaFA?usp=sharing
 
+In alto a sinistra cliccate su "File"->"Save a copy in Drive". 
+
+Fatto ciò siamo pronti per iniziare!
