@@ -13,7 +13,10 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 - Scaricare il file del Notebook della prima lezione dall’indirizzo:
  https://colab.research.google.com/drive/1BaQQxFrrr2b2AvAJNKvHA7Bd9L0oGOx3?usp=sharing
  
-- Scaricare il file del notebook della seconda lezione qui: https://colab.research.google.com/drive/19Q5bLLB3u-VHXP6fiO4LPZ2cykbWxyEE?usp=sharing
+- Scaricare il file del notebook della seconda lezione (vettori e matrici) qui: https://colab.research.google.com/drive/19Q5bLLB3u-VHXP6fiO4LPZ2cykbWxyEE?usp=sharing
+
+- Scaricare il file del notebook della terza lezione (pandas) qui: https://colab.research.google.com/drive/17awCCEaZoRR66osYTtiM3G5fwWyfJjW1#scrollTo=kyjZPywGKpV7
 
 - In alto a sinistra cliccate su "File"->"Save a copy in Drive". Fatto ciò siamo pronti per iniziare!
 
+- Trovi i dati condivisi in questa cartella:  https://drive.google.com/drive/folders/1qOXUVrZc0jAY8Zxak1krhJzzntdPmby9?usp=sharing
