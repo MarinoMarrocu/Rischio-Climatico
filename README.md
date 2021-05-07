@@ -10,7 +10,7 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 
 - Accedere a GMAIL facendo Login da un browser desktop, possibilmente chrome o firefox
 
-- Scaricare il file del Notebook della prima lezione dall’indirizzo:
+- Scaricare il file del Notebook della prima lezione (introduzione a python) dall’indirizzo:
  https://colab.research.google.com/drive/1BaQQxFrrr2b2AvAJNKvHA7Bd9L0oGOx3?usp=sharing
  
 - Scaricare il file del notebook della seconda lezione (vettori e matrici) qui: https://colab.research.google.com/drive/19Q5bLLB3u-VHXP6fiO4LPZ2cykbWxyEE?usp=sharing
