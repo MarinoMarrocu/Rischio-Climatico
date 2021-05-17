@@ -17,6 +17,6 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 
 - Scaricare il file del notebook revisionato della terza lezione (pandas) qui: https://colab.research.google.com/drive/1BH-o_MLt9wqhnThmcKrUB0ZzurKyqqsP
 
-- Versione semplificata del notebbook precedente: https://colab.research.google.com/drive/1lSKh6dM_H1TaIPHnf4UUo7Eu6RtagMuy
+- Versione semplificata del notebook precedente: https://colab.research.google.com/drive/1lSKh6dM_H1TaIPHnf4UUo7Eu6RtagMuy
 
 - In alto a sinistra cliccate su "File"->"Save a copy in Drive". Fatto ciò siamo pronti per iniziare!
