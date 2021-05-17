@@ -15,9 +15,9 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
  
 - Scaricare il file del notebook della seconda lezione (vettori e matrici) qui: https://colab.research.google.com/drive/19Q5bLLB3u-VHXP6fiO4LPZ2cykbWxyEE?usp=sharing
 
-- Scaricare il file del notebook revisionato della terza lezione (pandas) qui: https://colab.research.google.com/drive/1BH-o_MLt9wqhnThmcKrUB0ZzurKyqqsP
+- Scaricare il file del notebook revisionato della terza lezione (pandas) qui: https://colab.research.google.com/drive/1BH-o_MLt9wqhnThmcKrUB0ZzurKyqqsP?usp=sharing
 
-- Versione semplificata del notebook precedente: https://colab.research.google.com/drive/1lSKh6dM_H1TaIPHnf4UUo7Eu6RtagMuy
+- Versione semplificata del notebook precedente: https://colab.research.google.com/drive/1lSKh6dM_H1TaIPHnf4UUo7Eu6RtagMuy?usp=sharing
 
 - Ultimo notebook relativo alla visualizzazione di mappe e calcolo dei biomi primari e secondari per l'intero globo terrestre: https://colab.research.google.com/drive/1pLDo0yP74Bhw2ODj27-nV3tlC4ZlrL-i?usp=sharing
 
