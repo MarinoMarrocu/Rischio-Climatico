@@ -19,6 +19,6 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 
 - Versione semplificata del notebook precedente: https://colab.research.google.com/drive/1lSKh6dM_H1TaIPHnf4UUo7Eu6RtagMuy
 
--Ultimo notebook relativo alla visualizzazione di mappe e calcolo dei biomi primari e secondari per l'intero globo terrestre: https://colab.research.google.com/drive/1pLDo0yP74Bhw2ODj27-nV3tlC4ZlrL-i
+- Ultimo notebook relativo alla visualizzazione di mappe e calcolo dei biomi primari e secondari per l'intero globo terrestre: https://colab.research.google.com/drive/1pLDo0yP74Bhw2ODj27-nV3tlC4ZlrL-i
 
 - In alto a sinistra cliccate su "File"->"Save a copy in Drive". Fatto ciò siamo pronti per iniziare!
