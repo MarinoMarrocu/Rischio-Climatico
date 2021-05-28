@@ -23,4 +23,6 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 
 - esercitazione tipo: https://colab.research.google.com/drive/1leyGix49L4U8_4ijy0mk01Fz7gFYlwhU?usp=sharing
 
+- esempi di test a risposta multipla: https://docs.google.com/forms/d/1cFLHX0133yLbjva5vRRGEnyT9HDFtn4c0HZdvks5zok/edit, https://docs.google.com/forms/d/1n5DIpLRDt6a_ZKc40xlnlBDLY3y_DzPp3yaHzp1Yvsg/edit, https://docs.google.com/forms/d/1n5DIpLRDt6a_ZKc40xlnlBDLY3y_DzPp3yaHzp1Yvsg/edit
+
 -Per tutti i notebook come prima cosa ricordarsi di cliccare in alto a sinistra  su "File"->"Save a copy in Drive". Fatto ciò si è pronti per iniziare!
