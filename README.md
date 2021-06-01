@@ -26,3 +26,9 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 - esempi di test a risposta multipla: https://docs.google.com/forms/d/1cFLHX0133yLbjva5vRRGEnyT9HDFtn4c0HZdvks5zok/edit, https://docs.google.com/forms/d/1n5DIpLRDt6a_ZKc40xlnlBDLY3y_DzPp3yaHzp1Yvsg/edit, https://docs.google.com/forms/d/1n5DIpLRDt6a_ZKc40xlnlBDLY3y_DzPp3yaHzp1Yvsg/edit
 
 -Per tutti i notebook come prima cosa ricordarsi di cliccare in alto a sinistra  su "File"->"Save a copy in Drive". Fatto ciò si è pronti per iniziare!
+
+# Istruzioni per l'esercitazione di fine corso
+
+- il google doc con i test a risposta multipla si invia entro la scadenza temporale concordata cliccando l'icona "submit" in fondo a sinistra del google doc
+
+- il colab notebook con l'esercitazione per l'analisi e visualizzazione dei dati va spedito cliccando nell'icona "share" ("condividi") in alto a destra del notebook. L'icona è quella con due persone a mezzo busto parzialmente sovrapposte. Cliccando su di essa si apre una finestra dove bisogna inserire l'email delle persone con cui condividere il notebook. Inserite il mio email: marino.marrocu@gmail.com ed infine spedite cliccando sull'icona in fondo a destra "send".
