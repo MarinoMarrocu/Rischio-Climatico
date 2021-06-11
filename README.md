@@ -31,4 +31,6 @@ indici aggregati capaci di stimare il rischio climatico derivante per l'uomo e/o
 
 - il google doc con i test a risposta multipla si invia entro la scadenza temporale concordata cliccando l'icona "submit" in fondo a sinistra del google doc. Per chi ha selezionato la lingua italiana in google, “submit” diventa “invia”
 
+https://docs.google.com/forms/d/1nSQ4sqRDBYfgCuCy5rx6ds3GyjOsZSGNIHXKM3c3GC0/viewform?edit_requested=true
+
 - il colab notebook con l'esercitazione per l'analisi e visualizzazione dei dati va spedito cliccando nell'icona "share" ("condividi" in italiano) in alto a destra del notebook. L'icona è quella con due persone a mezzo busto parzialmente sovrapposte. Cliccando su di essa si apre una finestra dove bisogna inserire l'email delle persone con cui condividere il notebook. Inserite il mio email: marino.marrocu@gmail.com e quello del Dott. Stefano Farris stefano.farris2@gmail.com ed infine spedite cliccando sull'icona in fondo a destra "send" ("invia" in italiano).
