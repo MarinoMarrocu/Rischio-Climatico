@@ -37,4 +37,3 @@ https://docs.google.com/forms/d/1nSQ4sqRDBYfgCuCy5rx6ds3GyjOsZSGNIHXKM3c3GC0/vie
 
 https://colab.research.google.com/drive/1vhg0ubsTTFKzBcT3xg0WHq2iv1xPh_Nh?usp=sharing
 
-- $\alpha=\fract{1}{\epsilon}$
